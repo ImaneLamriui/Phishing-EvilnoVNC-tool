@@ -20,3 +20,15 @@ Por eso es tan importante:
 Solo ingeniería social: ⚠️ “abre este enlace”, “te ayudo remotamente”, etc.⚠️
 
 💭 EvilnoVNC es una herramienta técnicamente compleja-->mezcla un navegador embebido con VNC. Justo porque no muestra señales visibles, es tan potente como peligrosa.
+
+<img src="1.jpeg">
+
+<img src="2.jpeg">
+
+<img src="3.jpeg">
+
+<img src="4.jpeg">
+
+<img src="5.jpeg">
+
+<img src="6.jpeg">
